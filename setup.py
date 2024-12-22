@@ -6,7 +6,7 @@ setup(
     description="A Python library to fetch cryptocurrency prices from CoinMarketCap",
     author="Aby Varghese",
     author_email="edxfr3q@gmail.com",  
-    url="https://github.com/yourusername/crypto-price",  
+    url="https://github.com/AbyvargheseMandapathel/Crypto-Package",  
     packages=find_packages(where="crypto_price"),  
     package_dir={'': 'crypto_price'},  
     install_requires=[
